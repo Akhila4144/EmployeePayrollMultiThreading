@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\netcoreapp3.1\EmpPayrollSystem.exe
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\netcoreapp3.1\EmpPayrollSystem.deps.json
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\netcoreapp3.1\EmpPayrollSystem.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\netcoreapp3.1\EmpPayrollSystem.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\netcoreapp3.1\EmpPayrollSystem.dll
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\netcoreapp3.1\EmpPayrollSystem.pdb
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.dll
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.pdb
+C:\Users\Raj Nani\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\netcoreapp3.1\EmpPayrollSystem.genruntimeconfig.cache
